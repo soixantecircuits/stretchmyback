@@ -1,0 +1,20 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+.image_full_screen_wrapper{
+  position: relative;
+}
+
+.fullOverlay{
+  cursor: pointer;
+  position: absolute;
+  top: 0px;
+  width: 150px;
+  height: 40px;
+  text-align: center;
+  left: 0px;
+  margin: auto;
+  padding:50px 0px 0px 0px;
+  background: rgba(0,0,0,0.7);
+  color:#fff;
+  height: 100px
+}
